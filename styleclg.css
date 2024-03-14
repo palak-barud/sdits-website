@@ -30,7 +30,7 @@ a{
 }
 #main {
     margin-top: 55px;
-    margin-left: 235px;
+    margin-left: 200px;
 }
 main p{
     margin:10px 45px;
@@ -55,4 +55,37 @@ footer{
 .column{
     width: 300px;
     margin-top: 30px;
+}
+.column h3{
+    display: flex;
+    text-align: center;
+}
+.sp h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.side{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+    padding: 30px;
+}
+.side h2{
+    color:red;
+    font-size:28pt;
+}
+.side1{
+    display: flex;
+    justify-content: space-evenly;
+ margin:30px; 
+ padding: 30px;  
+}
+.side1 h2{
+    color:red;
+    font-size:28pt;
+}
+#center{
+    display: inline-table;
+    justify-content: center;
 }
