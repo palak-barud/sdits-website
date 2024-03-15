@@ -98,8 +98,7 @@ footer{
 .qw{
     display: flex;
     justify-content: space-evenly;
-    margin: 50px;
-    padding: 30px;
+    margin-left: 50px;
 }
 aside{
     display: flex;
